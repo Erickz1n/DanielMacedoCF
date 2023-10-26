@@ -2976,6 +2976,7 @@ header nav {
     justify-content: center;
     text-align: start;
     align-items: center;
+    width: 70rem;
     /* gap: 1.5rem; */
 
     margin-right: 68rem;
@@ -2994,13 +2995,15 @@ header nav {
     margin-top: -13rem;
     line-height: 123.5%;
     /* position: absolute; */
-    margin-left: 10rem;
+    margin-left: 17.8rem;
 
 }
 
 #first-section .link {
-    /* margin-left: 5rem; */
+    margin-left: 5rem;
 }
+
+
 
 .paragraph {
     color: #fff;
@@ -3011,7 +3014,7 @@ header nav {
 
 #first-section .paragraph {
     margin-bottom: 2.3rem;
-    margin-left: -8rem;
+    /* margin-left: -8rem; */
     
 }
 
