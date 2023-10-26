@@ -2990,9 +2990,16 @@ header nav {
 
 #first-section .title {
     z-index: 5;
+    /* margin-right: -3rem; */
     margin-top: -13rem;
     line-height: 123.5%;
     /* position: absolute; */
+    margin-left: 10rem;
+
+}
+
+#first-section .link {
+    /* margin-left: 5rem; */
 }
 
 .paragraph {
@@ -3004,6 +3011,8 @@ header nav {
 
 #first-section .paragraph {
     margin-bottom: 2.3rem;
+    margin-left: -8rem;
+    
 }
 
 .link {
