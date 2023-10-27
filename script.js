@@ -26,3 +26,17 @@ for (const link of links) {
         nav.classList.remove('show')
     })
 }
+
+
+const scrollReveal = ScrollReveal({
+    origin: 'top',
+    distance: '38px',
+    duration: 700,
+    reset: true
+})
+
+scrollReveal.reveal(
+    `#header, #first-section, #second-section
+    `,
+    { interval: 100 }
+)
